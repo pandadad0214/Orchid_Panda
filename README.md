@@ -1,14 +1,25 @@
 # 🌸 Orchid Panda
 
-**Orchid Panda, a planned Panda Federation module.**
+Orchid Panda is a planned Panda Federation module; this repo is a placeholder with no code yet. The Panda tools below are the ones you can use today.
 
-## Use
+## How to use this
 
-Nothing to install here yet; this module is a placeholder. Panda tools you can use today:
+There is nothing to install here yet. Pick a live Panda tool instead:
 
-- **[Panda Federation Tools](https://github.com/pandadad0214/panda-federation-tools)**: 18 research and public-data tools for Claude, Cursor and Copilot. One command: `uvx panda-federation-tools`
+- **[Panda Federation Tools](https://github.com/pandadad0214/panda-federation-tools)**: 36 public-data tools for Claude, Cursor and other MCP clients in four focused servers, e.g. `uvx --from panda-federation-tools panda-research-tools`
 - **[Watchdog Panda](https://github.com/pandadad0214/Watchdog_Panda)** and **[Steel Panda](https://github.com/pandadad0214/Steel_Panda)**: one-command installs from their latest Release
-- **[Hidden AI Instructions Scanner](https://apify.com/pandadad0214/hidden-ai-instructions-scanner)** (publishing soon): free, checks web pages for text hidden from people but aimed at AI agents
+- **[Quiet File Team](https://github.com/pandadad0214/quiet-file-team)**: free Bash kit for several bots sharing one computer through files
+- **[Hidden AI Instructions Scanner](https://apify.com/pandadad0214/hidden-ai-instructions-scanner)**: free, checks web pages for text hidden from people but aimed at AI agents
+
+## For AI agents
+
+| Field | Value |
+| --- | --- |
+| Purpose | Placeholder for a planned module; no code or install yet. |
+| Use when | Never as a dependency today; watch the repo for a first release. |
+| Do not use when | You need working code; use one of the live tools listed above. |
+| Install | None (no release, no package). |
+| Status | Planned; MIT licensed. |
 
 ## For developers
 
